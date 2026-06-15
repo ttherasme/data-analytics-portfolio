@@ -18,7 +18,7 @@ My professional background includes:
 * Business Intelligence and Dashboard Development
 * Data Visualization and Reporting
 * Database Design and Data Modeling
-* Healthcare Data Analytics
+* Data Analytics
 
 I am passionate about transforming raw data into actionable insights that support informed decision-making.
 
@@ -95,7 +95,7 @@ An interactive healthcare dashboard built in Excel to analyze Emergency Room ope
 
 ### Repository
 
-*Link will be added after publication.*
+*https://github.com/ttherasme/excel-healthcare-dashboard.git*
 
 ---
 
