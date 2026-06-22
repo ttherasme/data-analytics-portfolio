@@ -12,7 +12,7 @@ I am a Data Analyst and Programmer/Analyst with over 10 years of experience work
 
 My professional background includes:
 
-* SQL Server and Oracle Database Administration
+* Application development
 * SQL and PL/SQL Development
 * Data Extraction, Transformation, and Validation
 * Business Intelligence and Dashboard Development
@@ -137,7 +137,6 @@ Focus Areas:
 ### Skills Demonstrated
 
 * Relational Database Design
-* SQL Development
 * Data Modeling
 * Data Transformation
 * Analytical SQL Views
@@ -147,7 +146,6 @@ Focus Areas:
 
 ### Technologies Used
 
-* SQL Server
 * Looker Studio
 * Excel
 * Power Query
@@ -185,13 +183,9 @@ Relational database design, normalization, and implementation projects.
 ### Certifications
 
 * IBM Data Analyst Professional Certificate
-* Generative AI: Enhance Your Data Analytics Career
-* Data Visualization with Python
-* Data Analysis with Python
-* Databases and SQL for Data Science with Python
-* Python for Data Science, AI & Development
-* Excel Basics for Data Analysis
-* IBM Cognos Analytics
+* Cybersecurity and Privacy
+* Essential Aspects of Software, Hardware and Data Backup
+* introduction to Computers
 
 ---
 
