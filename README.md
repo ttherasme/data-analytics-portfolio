@@ -139,7 +139,6 @@ Focus Areas:
 * Relational Database Design
 * Data Modeling
 * Data Transformation
-* Analytical SQL Views
 * Business Intelligence
 * Dashboard Development
 * Healthcare Analytics
