@@ -2,7 +2,7 @@
 
 Welcome to my Data Analytics Portfolio.
 
-This repository serves as a central hub for my data analytics, business intelligence, database, and reporting projects. The projects showcased here demonstrate skills in data cleaning, data transformation, SQL analytics, dashboard development, data visualization, database design, and business intelligence.
+This repository serves as a central hub for my data analytics, business intelligence, database, and reporting projects. The projects showcased here demonstrate skills in data cleaning, data transformation, business intelligence pipeline engineering, dashboard development, data visualization, database design, and data modeling.
 
 ---
 
@@ -11,7 +11,6 @@ This repository serves as a central hub for my data analytics, business intellig
 I am a Data Analyst and Programmer/Analyst with over 10 years of experience working with databases, enterprise applications, reporting systems, and data-driven solutions.
 
 My professional background includes:
-
 * Application development
 * SQL and PL/SQL Development
 * Data Extraction, Transformation, and Validation
@@ -27,7 +26,6 @@ I am passionate about transforming raw data into actionable insights that suppor
 ## Technical Skills
 
 ### Data Analysis & Business Intelligence
-
 * Excel
 * Power Query
 * Looker Studio
@@ -37,7 +35,6 @@ I am passionate about transforming raw data into actionable insights that suppor
 * KPI Development
 
 ### Database Technologies
-
 * Microsoft SQL Server
 * Oracle Database
 * SQL
@@ -46,12 +43,10 @@ I am passionate about transforming raw data into actionable insights that suppor
 * Data Modeling
 
 ### Programming
-
 * Python
 * C#
 
 ### Analytics & Reporting
-
 * Data Cleaning
 * Data Transformation
 * ETL Concepts
@@ -64,94 +59,63 @@ I am passionate about transforming raw data into actionable insights that suppor
 
 ---
 
-## Healthcare ER Dashboard (Excel)
+## 1. Healthcare ER Dashboard
 
 ### Project Overview
-
-An interactive healthcare dashboard built in Excel to analyze Emergency Room operations and patient activity.
+An interactive healthcare dashboard built in Excel to analyze Emergency Room operations and patient activity patterns.
 
 ### Skills Demonstrated
-
-* Data Cleaning
-* Power Query
-* PivotTables
-* PivotCharts
-* KPI Development
-* Dashboard Design
-* Healthcare Analytics
+* Data Cleaning & Standardization
+* Power Query Extraction
+* PivotTables & PivotCharts
+* KPI Development & Dashboard Design
+* Healthcare Operations Analytics
 
 ### Key Insights
-
 * Patient demographics analysis
-* Average wait time monitoring
-* Admission trends analysis
-* Patient satisfaction tracking
-* Department utilization analysis
+* Average wait time monitoring by department
+* Admission trends analysis (discovering a 40%+ hospital admission rate)
+* Patient satisfaction tracking relative to wait times
 
 ### Technologies Used
-
 * Microsoft Excel
 * Power Query
 
-### Repository
-
-*https://github.com/ttherasme/excel-healthcare-dashboard.git*
+### Repository Link
+👉 **[View Project Repository](https://github.com/ttherasme/excel-healthcare-dashboard)**
 
 ---
 
-## Healthcare Operations, Financial & Clinical Analytics Dashboard
+## 2. Healthcare Operations, Financial & Clinical Analytics
 
 ### Project Overview
-
-A comprehensive healthcare analytics solution developed using SQL Server and Looker Studio. The project integrates patient, doctor, appointment, treatment, and billing data to provide operational, financial, and clinical insights.
+A multi-page enterprise healthcare analytics application that integrates a 5-table relational system database. Data is cleaned and feature-engineered through parallel Power Query pipelines and served via an interactive 3-page Looker Studio dashboard tracking operations, finance, and clinical throughput.
 
 ### Dashboards Included
 
-#### Healthcare Operations Performance Dashboard
+#### Page 1: Healthcare Operations Performance Dashboard
+* **Focus Areas:** Appointment activity, scheduling lifecycles (completions, cancellations, no-shows), provider workload, and branch optimization.
 
-Focus Areas:
+#### Page 2: Healthcare Revenue & Billing Performance Dashboard
+* **Focus Areas:** Revenue monitoring, collection performance matrices, pending vs. failed payment pipelines, and financial KPI tracking.
 
-* Appointment activity
-* Provider workload
-* Operational efficiency
-* Patient flow analysis
-
-#### Healthcare Revenue & Billing Performance Dashboard
-
-Focus Areas:
-
-* Revenue monitoring
-* Billing performance
-* Payment status analysis
-* Financial KPI tracking
-
-#### Clinical Insights & Patient Care Analytics Dashboard
-
-Focus Areas:
-
-* Patient demographics
-* Treatment utilization
-* Clinical service analysis
-* Treatment cost insights
+#### Page 3: Clinical Insights & Patient Care Analytics Dashboard
+* **Focus Areas:** Patient demographics distribution, diagnostic treatment utilization frequencies, clinical workload analysis, and cost profiles.
 
 ### Skills Demonstrated
-
-* Relational Database Design
-* Data Modeling
-* Data Transformation
-* Business Intelligence
-* Dashboard Development
-* Healthcare Analytics
+* Relational Data Modeling & Left Outer Joins
+* Advanced Feature Engineering (Dynamic Age Group Cohorts)
+* Pipeline Target Splitting Matrix
+* Enterprise KPI Design
+* Cross-Functional Analytical Web Reporting
 
 ### Technologies Used
+* Google Looker Studio
+* Microsoft Excel
+* Power Query (M-Engine)
 
-* Looker Studio
-* Excel
-* Power Query
-
-### Repository
-
-*Link will be added after publication.*
+### Repository Link
+👉 **[View Project Repository](https://github.com/ttherasme/healthcare-operations-finance-clinical-analytics)**
 
 ---
 
@@ -160,19 +124,15 @@ Focus Areas:
 The following projects are currently planned for future development:
 
 ### SQL Analytics Projects
-
 Advanced SQL reporting, data exploration, KPI development, and business analysis projects.
 
 ### Power BI Analytics Projects
-
 Interactive dashboards and business intelligence solutions developed using Power BI.
 
 ### Python Analytics Projects
-
 Data analysis, automation, visualization, and exploratory analytics projects using Python.
 
 ### Database Design Projects
-
 Relational database design, normalization, and implementation projects.
 
 ---
@@ -180,39 +140,33 @@ Relational database design, normalization, and implementation projects.
 # Learning Journey
 
 ### Certifications
-
 * IBM Data Analyst Professional Certificate
 * Cybersecurity and Privacy
 * Essential Aspects of Software, Hardware and Data Backup
-* introduction to Computers
+* Introduction to Computers
 
 ---
 
 # Goals
 
 My objective is to continue building practical analytics projects that demonstrate:
-
-* Data Analysis
-* Business Intelligence
+* Data Analysis & Business Intelligence
 * SQL Development
 * Data Visualization
-* Database Design
-* Healthcare Analytics
+* Database Design & Data Modeling
+* Healthcare Sector Analytics
 * Data-Driven Decision Making
 
 ---
 
 # Contact
 
-**Therdemis Therasme**
+**Therdemis Therasme**  
+📍 Syracuse, New York, USA  
+📧 [ttherasme@gmail.com](mailto:ttherasme@gmail.com)  
 
-📍 Syracuse, New York, USA
-
-📧 [ttherasme@gmail.com](mailto:ttherasme@gmail.com)
-
-GitHub Profile: https://github.com/YOUR_USERNAME
-
-LinkedIn: Add your LinkedIn profile link here
+🔗 **[GitHub Profile](https://github.com/ttherasme)**  
+🔗 **[LinkedIn Profile](https://linkedin.com/in/ttherasme)**  
 
 ---
 
