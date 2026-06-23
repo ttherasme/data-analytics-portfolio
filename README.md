@@ -154,7 +154,6 @@ My objective is to continue building practical analytics projects that demonstra
 * SQL Development
 * Data Visualization
 * Database Design & Data Modeling
-* Healthcare Sector Analytics
 * Data-Driven Decision Making
 
 ---
