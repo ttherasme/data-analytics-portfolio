@@ -169,4 +169,4 @@ My objective is to continue building practical analytics projects that demonstra
 
 ---
 
-Thank you for visiting my portfolio. New projects and improvements will be added regularly as I continue developing my skills in Data Analytics and Business Intelligence.
+Thank you for visiting my portfolio. New projects and improvements will be added regularly.
