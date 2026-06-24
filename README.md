@@ -132,9 +132,6 @@ Interactive dashboards and business intelligence solutions developed using Power
 ### Python Analytics Projects
 Data analysis, automation, visualization, and exploratory analytics projects using Python.
 
-### Database Design Projects
-Relational database design, normalization, and implementation projects.
-
 ---
 
 # Learning Journey
