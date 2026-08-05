@@ -2,39 +2,46 @@
 
 Welcome to my Data Analytics Portfolio.
 
-This repository serves as a central hub for my data analytics, business intelligence, database, and reporting projects. The projects showcased here demonstrate skills in data cleaning, data transformation, business intelligence pipeline engineering, dashboard development, data visualization, database design, and data modeling.
+This repository serves as a central hub for my data analytics, business intelligence, database, and reporting projects. The projects showcased here demonstrate practical experience in data acquisition, data cleaning, transformation, feature engineering, dashboard development, data visualization, relational data modeling, and business intelligence.
 
 ---
 
-## About Me
+# About Me
 
-I am a Data Analyst and Programmer/Analyst with over 10 years of experience working with databases, enterprise applications, reporting systems, and data-driven solutions.
+I am a Data Analyst and Programmer/Analyst with over 10 years of experience developing database-driven applications, supporting enterprise information systems, and transforming data into actionable business insights.
 
-My professional background includes:
-* Application development
-* SQL and PL/SQL Development
-* Data Extraction, Transformation, and Validation
-* Business Intelligence and Dashboard Development
-* Data Visualization and Reporting
-* Database Design and Data Modeling
-* Data Analytics
+My experience includes:
 
-I am passionate about transforming raw data into actionable insights that support informed decision-making.
+* Application Development
+* SQL & PL/SQL Development
+* Data Cleaning & Transformation
+* Feature Engineering
+* Data Modeling
+* Business Intelligence
+* Dashboard Development
+* Data Visualization
+* Healthcare Analytics
+
+I enjoy building end-to-end analytics solutions that combine data engineering, business intelligence, and interactive reporting to support data-driven decision-making.
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Data Analysis & Business Intelligence
-* Excel
+## Data Analysis & Business Intelligence
+
+* Microsoft Excel
 * Power Query
 * Looker Studio
 * IBM Cognos Analytics
-* Data Visualization
-* Dashboard Design
+* Dash
+* Plotly
 * KPI Development
+* Dashboard Design
+* Data Visualization
 
-### Database Technologies
+## Database Technologies
+
 * Microsoft SQL Server
 * Oracle Database
 * SQL
@@ -42,13 +49,20 @@ I am passionate about transforming raw data into actionable insights that suppor
 * Relational Database Design
 * Data Modeling
 
-### Programming
+## Programming
+
 * Python
+* Pandas
+* NumPy
+* Dash
+* Plotly
 * C#
 
-### Analytics & Reporting
+## Analytics & Reporting
+
+* Exploratory Data Analysis (EDA)
 * Data Cleaning
-* Data Transformation
+* Feature Engineering
 * ETL Concepts
 * Business Reporting
 * Statistical Analysis
@@ -59,84 +73,158 @@ I am passionate about transforming raw data into actionable insights that suppor
 
 ---
 
-## 1. Healthcare ER Dashboard
+# 1. Healthcare ER Dashboard
 
 ### Project Overview
-An interactive healthcare dashboard built in Excel to analyze Emergency Room operations and patient activity patterns.
+
+Interactive Microsoft Excel dashboard analyzing Emergency Room operations, patient demographics, admissions, satisfaction, and wait times.
 
 ### Skills Demonstrated
+
 * Data Cleaning & Standardization
-* Power Query Extraction
+* Power Query
 * PivotTables & PivotCharts
-* KPI Development & Dashboard Design
-* Healthcare Operations Analytics
+* KPI Design
+* Dashboard Development
+* Healthcare Analytics
 
-### Key Insights
-* Patient demographics analysis
-* Average wait time monitoring by department
-* Admission trends analysis (discovering a 40%+ hospital admission rate)
-* Patient satisfaction tracking relative to wait times
+### Technologies
 
-### Technologies Used
 * Microsoft Excel
 * Power Query
 
-### Repository Link
-👉 **[View Project Repository](https://github.com/ttherasme/excel-healthcare-dashboard)**
+### Repository
+
+👉 **https://github.com/ttherasme/excel-healthcare-dashboard**
 
 ---
 
-## 2. Healthcare Operations, Financial & Clinical Analytics
+# 2. Healthcare Operations, Financial & Clinical Analytics
 
 ### Project Overview
-A multi-page enterprise healthcare analytics application that integrates a 5-table relational system database. Data is cleaned and feature-engineered through parallel Power Query pipelines and served via an interactive 3-page Looker Studio dashboard tracking operations, finance, and clinical throughput.
 
-### Dashboards Included
+Enterprise healthcare analytics solution built from a five-table relational healthcare dataset. Data is transformed through Power Query pipelines into analytics-ready datasets powering three interactive Looker Studio dashboards.
 
-#### Page 1: Healthcare Operations Performance Dashboard
-* **Focus Areas:** Appointment activity, scheduling lifecycles (completions, cancellations, no-shows), provider workload, and branch optimization.
+### Dashboards
 
-#### Page 2: Healthcare Revenue & Billing Performance Dashboard
-* **Focus Areas:** Revenue monitoring, collection performance matrices, pending vs. failed payment pipelines, and financial KPI tracking.
+### Healthcare Operations Performance Dashboard
 
-#### Page 3: Clinical Insights & Patient Care Analytics Dashboard
-* **Focus Areas:** Patient demographics distribution, diagnostic treatment utilization frequencies, clinical workload analysis, and cost profiles.
+Focus Areas
+
+* Appointment activity
+* Scheduling lifecycle
+* Provider workload
+* Hospital branch performance
+
+### Healthcare Revenue & Billing Performance Dashboard
+
+Focus Areas
+
+* Revenue analysis
+* Payment performance
+* Billing pipeline
+* Financial KPIs
+
+### Clinical Insights & Patient Care Analytics Dashboard
+
+Focus Areas
+
+* Patient demographics
+* Treatment utilization
+* Clinical workload
+* Treatment cost analysis
 
 ### Skills Demonstrated
-* Relational Data Modeling & Left Outer Joins
-* Advanced Feature Engineering (Dynamic Age Group Cohorts)
-* Pipeline Target Splitting Matrix
-* Enterprise KPI Design
-* Cross-Functional Analytical Web Reporting
 
-### Technologies Used
+* Relational Data Modeling
+* Data Transformation
+* Feature Engineering
+* Business Intelligence
+* KPI Development
+* Dashboard Design
+
+### Technologies
+
 * Google Looker Studio
 * Microsoft Excel
-* Power Query (M-Engine)
+* Power Query
 
-### Repository Link
-👉 **[View Project Repository](https://github.com/ttherasme/healthcare-operations-finance-clinical-analytics)**
+### Repository
 
----
-
-# Upcoming Projects
-
-The following projects are currently planned for future development:
-
-### SQL Analytics Projects
-Advanced SQL reporting, data exploration, KPI development, and business analysis projects.
-
-### Power BI Analytics Projects
-Interactive dashboards and business intelligence solutions developed using Power BI.
-
-### Python Analytics Projects
-Data analysis, automation, visualization, and exploratory analytics projects using Python.
+👉 **https://github.com/ttherasme/healthcare-operations-finance-clinical-analytics**
 
 ---
+
+# 3. Healthcare Appointment Analytics Dashboard
+
+### Project Overview
+
+Interactive healthcare analytics dashboard developed with Python, Dash, and Plotly to explore appointment behavior, patient demographics, waiting times, and factors associated with appointment no-shows.
+
+The application follows a modular architecture and provides interactive filtering, KPI monitoring, and multiple analytical views.
+
+### Dashboard Modules
+
+### Patient Profile
+
+* Gender Distribution
+* Age Distribution
+* Age Groups
+* Patients by Neighbourhood
+
+### Appointment Analysis
+
+* Appointments by Weekday
+* Appointments by Month
+* Waiting Time Distribution
+* Waiting Time Box Plot
+
+### No-Show Analysis
+
+* No-Show Rate by Gender
+* No-Show Rate by Health Factors
+* No-Show Rate by Neighbourhood
+
+### Correlation Analysis
+
+* Correlation Heatmap
+
+### Executive KPIs
+
+* Total Appointments
+* Completed Appointments
+* No-Show Appointments
+* No-Show Rate
+* Average Waiting Days
+* Average Patient Age
+
+### Skills Demonstrated
+
+* Python Programming
+* Exploratory Data Analysis
+* Feature Engineering
+* Interactive Dashboard Development
+* Dash Application Architecture
+* Plotly Visualization
+* Healthcare Analytics
+
+### Technologies
+
+* Python
+* Dash
+* Plotly
+* Pandas
+* NumPy
+
+### Repository
+
+👉 **https://github.com/ttherasme/healthcare-appointment-analytics-dashboard**
+
 
 # Learning Journey
 
-### Certifications
+## Certifications
+
 * IBM Data Analyst Professional Certificate
 * Cybersecurity and Privacy
 * Essential Aspects of Software, Hardware and Data Backup
@@ -146,24 +234,33 @@ Data analysis, automation, visualization, and exploratory analytics projects usi
 
 # Goals
 
-My objective is to continue building practical analytics projects that demonstrate:
-* Data Analysis & Business Intelligence
+My objective is to continue building professional analytics solutions that demonstrate:
+
+* Data Analytics
+* Business Intelligence
+* Data Engineering
 * SQL Development
+* Python Analytics
+* Dashboard Development
 * Data Visualization
-* Database Design & Data Modeling
+* Machine Learning
+* Database Design
 * Data-Driven Decision Making
 
 ---
 
 # Contact
 
-**Therdemis Therasme**  
-📍 Syracuse, New York, USA  
-📧 [ttherasme@gmail.com](mailto:ttherasme@gmail.com)  
+**Therdemis Therasme**
 
-🔗 **[GitHub Profile](https://github.com/ttherasme)**  
-🔗 **[LinkedIn Profile](https://linkedin.com/in/ttherasme)**  
+📍 Syracuse, New York, USA
+
+📧 [ttherasme@gmail.com](mailto:ttherasme@gmail.com)
+
+🔗 GitHub: https://github.com/ttherasme
+
+🔗 LinkedIn: https://linkedin.com/in/ttherasme
 
 ---
 
-Thank you for visiting my portfolio. New projects and improvements will be added regularly.
+Thank you for visiting my portfolio. This repository will continue to grow as I complete new projects and expand my expertise in Data Analytics, Business Intelligence, Python, SQL, and Data Engineering.
